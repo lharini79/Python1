@@ -1,0 +1,3 @@
+#name printing
+name=input("Enter your name")
+print(name)
